@@ -8,3 +8,5 @@ config.js 是配置文件
 	buildName 默认是web-mobile  假如修改工程名字，一同修改即可
 3.运行
 点击 Packages =>Encode 即可将源码混淆加密
+4.平台说明，
+目前测试是在mac环境下，window环境暂时不支持
